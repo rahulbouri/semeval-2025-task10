@@ -1,0 +1,40 @@
+HI_URW_TEST_458.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+HI_CC_TEST_416.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of the EU
+HI_URW_TEST_512.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_URW_TEST_522.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+HI_CC_TEST_408.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies are ineffective
+HI_URW_TEST_486.txt	URW: Overpraising the West	none
+HI_URW_TEST_499.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army will lose all the occupied territories
+HI_URW_TEST_480.txt	URW: Amplifying war-related fears	none
+HI_URW_TEST_525.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_CC_TEST_421.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_463.txt	URW: Russia is the Victim	none
+HI_CC_TEST_404.txt	CC: Criticism of climate policies	none
+HI_CC_TEST_410.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies are ineffective
+HI_URW_TEST_495.txt	URW: Distrust towards Media	none
+HI_URW_TEST_531.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+HI_URW_TEST_516.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_URW_TEST_533.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_URW_TEST_482.txt	URW: Amplifying war-related fears	none
+HI_URW_TEST_520.txt	URW: Amplifying war-related fears	none
+HI_CC_TEST_419.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+HI_CC_TEST_406.txt	CC: Criticism of climate policies	none
+HI_CC_TEST_417.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies are ineffective
+HI_URW_TEST_485.txt	URW: Speculating war outcomes	none
+HI_URW_TEST_507.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_URW_TEST_523.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_CC_TEST_402.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies have negative impact on the economy
+HI_URW_TEST_487.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_URW_TEST_534.txt	URW: Negative Consequences for the West	none
+HI_URW_TEST_488.txt	URW: Negative Consequences for the West	none
+HI_CC_TEST_420.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_462.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_CC_TEST_413.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_532.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing
+HI_URW_TEST_494.txt	URW: Distrust towards Media	none
+HI_URW_TEST_481.txt	URW: Amplifying war-related fears	none
+HI_CC_TEST_407.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of national governments
+HI_URW_TEST_479.txt	URW: Amplifying war-related fears	none
+HI_CC_TEST_418.txt	CC: Criticism of climate policies	none
+HI_CC_TEST_411.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+HI_URW_TEST_483.txt	URW: Amplifying war-related fears	none
